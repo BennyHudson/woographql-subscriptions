@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WooGraphQL Subscriptions
- * Plugin URI: https://github.com/wp-graphql/woographql-subscriptions
+ * Plugin URI: https://github.com/BennyHudson/woographql-subscriptions
  * Description: Adds Woocommerce subscriptions functionality to WPGraphQL schema.
- * Version: 0.0.1
- * Author: kidunot89
- * Author URI: https://axistaylor.com
+ * Version: 0.0.2
+ * Author: BennyHudson
+ * Author URI: https://www.ben-hudson.co.uk/
  * Text Domain: woographql-subscriptions
  * Domain Path: /languages
  * License: GPL-3
